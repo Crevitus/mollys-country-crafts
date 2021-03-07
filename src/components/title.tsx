@@ -6,15 +6,18 @@ import { Button, Card, CardActions, CardContent, CardMedia, Grid, Typography } f
 
 export const Title: React.FC = () => {
     const style = {
+        card: {
+            minWidth: '300px'
+        },
         media: {
             height: 140
         }
     };
 
     return (<div>
-        <Grid>
+        <Grid container>
             <Grid item xs={2}>
-                <Card variant="outlined">
+                <Card style={style.card} variant="outlined">
                     <CardMedia
                         style={style.media}
                         image={logo}
