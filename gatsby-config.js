@@ -12,13 +12,12 @@ module.exports = {
   'gatsby-plugin-sass',
   ],
   siteMetadata: {
-    title: 'Hello Hydro',
-    titleTemplate: '%s · the home of hydroponics',
-    description:
-            'the home of hydroponics.',
-    url: 'https://hellohydro.co.uk', // No trailing slash allowed!
-    image: '/static/img/hello-hydro.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@HelloHydroHome',
-    faviconUrl: '/static/img/favicon.ico',
+    title: 'Molly\'s Country Crafts',
+    titleTemplate: '%s · Waldorf inspired crafts',
+    description: 'Hand painted local stones and Waldorf inspired crafts.',
+    url: 'https://mollyscountrycrafts.co.uk', // No trailing slash allowed!
+    image: '/static/logo-0cc123645c3a3d0b774a2d70761cdb3b.jpg', // Path to your image you placed in the 'static' folder
+    twitterUsername: '',
+    faviconUrl: 'img/favicon.ico',
   },
 };

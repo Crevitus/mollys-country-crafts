@@ -1,5 +1,5 @@
 {
-    "name": "hello-hydro",
+    "name": "mollys-country-crafts",
     "version": "1.0.0",
     "private": true,
     "author": "Ben Crevis",
@@ -28,6 +28,7 @@
     },
     "dependencies": {
         "@fontsource/poiret-one": "^4.2.1",
+        "@material-ui/core": "^4.11.3",
         "@reach/router": "^1.3.4",
         "gatsby": "2.30.1",
         "gatsby-image": "^2.11.0",
