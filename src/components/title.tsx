@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../static/logo.jpg';
+import logo from '../static/logo.svg';
 import './title.scss';
 import '@fontsource/poiret-one';
 import { Button, Card, CardActions, CardContent, CardMedia, Grid, Typography } from "@material-ui/core";
@@ -23,14 +23,9 @@ export const Title: React.FC = () => {
                         image={logo}
                         title="Molly's Country Crafts"
                     />
-                    <CardContent>
-                        <Typography variant="h6" component="h2" gutterBottom>
-                            Molly's Country Crafts
-                        </Typography>
-                    </CardContent>
                     <CardActions>
                         <Button>
-                            <a href="https://www.etsy.com/uk/shop/MollysCountryCrafts">Checkout our Etsy shop!</a>
+                            <a href="https://www.etsy.com/uk/shop/MollysCountryCrafts">Check out our Etsy shop!</a>
                         </Button>
                     </CardActions>
                 </Card>

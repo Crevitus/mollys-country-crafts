@@ -17,7 +17,7 @@ module.exports = {
         titleTemplate: '%s · Waldorf inspired crafts',
         description: 'Hand painted local stones and Waldorf inspired crafts.',
         url: 'https://mollyscountrycrafts.co.uk', // No trailing slash allowed!
-        image: '/static/logo-0cc123645c3a3d0b774a2d70761cdb3b.jpg', // Path to your image you placed in the 'static' folder
+        image: '/static/logo-ac113b1d00554e1f6932c7b4f13e585e.svg', // Path to your image you placed in the 'static' folder
         twitterUsername: '',
         faviconUrl: 'img/favicon.ico',
     },
